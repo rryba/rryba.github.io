@@ -4,4 +4,5 @@ I am game developer with nearly 10 years of experience working on games, mosty i
 
 There is no part of the game development pipeline that I have not touched, I particlularly enjoy tools and gameplay programming where optimalization is core.
 
-[Please don't hesitate to contact me for any enquiries!](rryba4@gmail.com)
+Please don't hesitate to contact me for any enquiries!
+rryba4@gmail.com
